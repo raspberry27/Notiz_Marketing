@@ -1,7 +1,12 @@
 # Notiz_Marketing
 
 
-###Kernaufgaben des Marketings:
+####Kernaufgaben des Marketings:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+kljkö
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------
 
 - Marktforschung
 - Produktpolitik
@@ -11,7 +16,13 @@
 
 
 
-###Def. Sponsoring:
+####Def. Sponsoring:
+
+```
+sdfgdfsg
+dsrfgdsg
+sdrgsrg
+```
 
 Förderung oder Unterstützung von Personen, Organisationen, Veranstaltungen im kulturellen, sportlichen oder sozialen Bereich durch Gewährung von Sach- und Finanzmittel oder Zuwendung von Dienstleistungen. 
 --> dieses Instrument des Marketings, dient dem Unternehmen als Werbung oder Öffentlichkeitsarbeit
@@ -19,7 +30,7 @@ Förderung oder Unterstützung von Personen, Organisationen, Veranstaltungen im 
 
 
 
-###typischer Ablauf eines Markteing-Managementprozesses:
+####typischer Ablauf eines Markteing-Managementprozesses:
 
 1. Markt- und Umweltanalyse
 2. Bestimmung der Marketingziele
